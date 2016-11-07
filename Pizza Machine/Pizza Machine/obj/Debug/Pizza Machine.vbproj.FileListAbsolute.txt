@@ -1,0 +1,29 @@
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\bin\Debug\Pizza Machine.exe.config
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\bin\Debug\Pizza Machine.exe
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\bin\Debug\Pizza Machine.pdb
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\bin\Debug\Pizza Machine.xml
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\obj\Debug\Pizza_Machine.Resources.resources
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\obj\Debug\Pizza Machine.vbproj.GenerateResource.Cache
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\obj\Debug\Pizza Machine.exe
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\obj\Debug\Pizza Machine.xml
+C:\Users\13woodle\AppData\Local\Temporary Projects\Pizza Machine\obj\Debug\Pizza Machine.pdb
+E:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe.config
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.exe
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.xml
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.pdb
+E:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe
+E:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.pdb
+E:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.xml
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza_Machine.Resources.resources
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.vbproj.GenerateResource.Cache
+F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe.config
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.exe
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.xml
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.pdb
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.vbprojResolveAssemblyReference.cache
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza_Machine.Resources.resources
+F:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.vbproj.GenerateResource.Cache
+F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe
+F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.pdb
+F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.xml
+E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.vbprojResolveAssemblyReference.cache
