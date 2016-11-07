@@ -27,3 +27,7 @@ F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe
 F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.pdb
 F:\VB.Net\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.xml
 E:\VB.Net\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.vbprojResolveAssemblyReference.cache
+V:\Documents\GitHub\PizzaMachine\Pizza Machine\Pizza Machine\bin\Debug\Pizza Machine.exe.config
+V:\Documents\GitHub\PizzaMachine\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.exe
+V:\Documents\GitHub\PizzaMachine\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.xml
+V:\Documents\GitHub\PizzaMachine\Pizza Machine\Pizza Machine\obj\Debug\Pizza Machine.pdb
